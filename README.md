@@ -21,9 +21,8 @@ Projeto Final 3° Semestre do cursos Sisitema de Informação UNIBH, das respect
 <h3 align="center">Backend:</h3>
 
 <p align="center">
-<img alt="React" width="300px" src="https://miro.medium.com/max/811/1*fygqfizATFjt6ALek2W1jg.png"/>
-<img alt="React" width="200px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png
-"/>
+<img width="300px" src="https://miro.medium.com/max/811/1*fygqfizATFjt6ALek2W1jg.png"/>
+<img width="200px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/>
 
 </p>
 
