@@ -37,4 +37,4 @@ Projeto Final 3° Semestre do cursos Sisitema de Informação UNIBH, das respect
 
 ## Apresentação do Projeto 💬
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idGurnmSL2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/0WtZCCE.png)](https://www.youtube.com/watch?v=idGurnmSL2I)
