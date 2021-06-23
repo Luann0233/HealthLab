@@ -31,9 +31,9 @@ Projeto Final 3° Semestre do cursos Sisitema de Informação UNIBH, das respect
 ## Organização do Repositório 🧾
 
 - Branches:
-  - [Frontend]() -> Código fonte usado na criação da solução web, o novo site desenhado para o [HealthLab](https://healthlab40.netlify.app/).
-  - [Backend]() -> Código fonte usado na criação da Rest API, que será usada no novo site do HealthLab.
-  - [Prototipo]() -> Protótipo inicial das telas.
+  - [Frontend](https://github.com/Luann0233/HealthLab/tree/Frontend) -> Código fonte usado na criação da solução web, o novo site desenhado para o [HealthLab](https://healthlab40.netlify.app/).
+  - [Backend](https://github.com/Luann0233/HealthLab/tree/Backend) -> Código fonte usado na criação da Rest API, que será usada no novo site do HealthLab.
+  - [Prototipo](https://github.com/Luann0233/HealthLab/tree/Prototipo) -> Protótipo inicial das telas.
 
 ## Apresentação do Projeto 💬
 
