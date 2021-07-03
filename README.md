@@ -10,6 +10,10 @@ Projeto Final 3° Semestre do cursos Sisitema de Informação UNIBH, das respect
 
 ## 💬 Mais Sobre o Projeto 🚀
 
+<p  align="center"> ⚠️⚠️⚠️ </p>
+<h5  align="center"> Ramon Tentei de tudo para subir a API no Heroku(https://healthlab-api.herokuapp.com/), até tinha conseguido criar o DB com o clearSQL lá no heroku, mas o App nunca rodava sempre dava "App Chrash". Tente de tudo para resolver mas não consegui... Te adicioneio como colaborador la no heroku se vc quiser da uma olhada, eu deletei o ClearSQL para tentar fazer dnv, mas nao deu mto certo por isso ta sem DB agr</h5>
+<p  align="center"> ⚠️⚠️⚠️ </p>
+
 <h1 align="center">Tecnologias utilizadas:</h1>
 
 <h3 align="center">Frontend:</h3>
